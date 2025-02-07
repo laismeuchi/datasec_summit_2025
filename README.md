@@ -1,6 +1,6 @@
 # DataSec Summit 2025
 
-Demonstração prática para o evento DataSec Summit 2025
+Demonstração prática para o evento [DataSec Summit 2025](https://www.sympla.com.br/evento/datasec-summit-2025/2796696)
 
 Link para slides da palestra [aqui](https://gamma.app/docs/Big-Data-e-Seguranca-Transformando-Dados-em-Estrategia-com-Databr-90a70bfcznfbcjl).
 
